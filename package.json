@@ -1,0 +1,10 @@
+{
+  "name": "cutevue",
+  "version": "1.0.0",
+  "description": "CuteVue is an UI Framework for Vue.js",
+  "main": "index.js",
+  "repository": "https://github.com/CuteVue/cutevue.git",
+  "author": "Saeed <hassanisaeed19@yahoo.com>",
+  "license": "MIT",
+  "private": true
+}
