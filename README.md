@@ -1,2 +1,2 @@
-# cutevue
-CuteVue is an UI Framework for Vue.js that inspires your website. 
+# CuteVue
+CuteVue is a UI Framework for Vue.js that inspires your website.
