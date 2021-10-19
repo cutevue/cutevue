@@ -10,7 +10,6 @@ const install = function installCutevue(Vue) {
 
 // Create module definition for Vue.use()
 export default install;
-
 // To allow individual component use, export components
 // each can be registered via Vue.component()
 export * from '@/lib/index';
